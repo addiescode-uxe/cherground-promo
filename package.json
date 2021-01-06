@@ -55,7 +55,7 @@
     "@types/react-router-dom": "^4.3.5",
     "@types/recharts": "^1.8.10",
     "aws-sdk": "^2.663.0",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "babel-plugin-parameter-decorator": "^1.0.15",
     "babel-runtime": "^6.26.0",
     "core-js": "^2.5.7",
